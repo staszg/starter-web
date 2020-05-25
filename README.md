@@ -2,6 +2,8 @@
 
 This is the starter repo for Git/GitHub demos.
 More info here.
+Even more info.
+Even more more info...
 
 ## Introduction
 
