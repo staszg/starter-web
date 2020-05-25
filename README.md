@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is the starter repo for Git/GitHub demos.
+More info here.
 
 ## Introduction
 
