@@ -20,3 +20,5 @@ To deploy...
 ## How to contribute
 
 ## Copyright Notice
+
+## Price Notice
