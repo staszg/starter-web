@@ -19,3 +19,4 @@ To deploy...
 
 ## How to contribute
 
+## Copyright Notice
